@@ -4,13 +4,14 @@ This is a collection of system models developed
 using the [systems](https://github.com/lethain/systems) library,
 and explorable via [Binder](https://mybinder.org/) or locally runnable.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lethain/systems-explorations/master)
 
 ## Explorations
 
 The current explorations are:
 
-* **Hiring** ([github](./hiring.ipynb))
-* **Reliability** ([github](./reliability.ipynb))
+* **Hiring** ([github](./hiring.ipynb), [binder](https://mybinder.org/v2/gh/lethain/systems-explorations/master))
+* **Reliability** ([github](./reliability.ipynb), [binder](https://mybinder.org/v2/gh/lethain/systems-explorations/master))
 
 ## Installation
 

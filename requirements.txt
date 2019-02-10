@@ -51,7 +51,7 @@ requests>=2.20.0
 requests-toolbelt==0.8.0
 Send2Trash==1.5.0
 six==1.12.0
--e git+git@github.com:lethain/systems.git@becbbc6a0d1afbceb101ead37899d8485c537a9b#egg=systems
+systems>=0.0.7
 terminado==0.8.1
 testpath==0.4.2
 tornado==5.1.1
