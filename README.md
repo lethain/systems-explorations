@@ -10,8 +10,8 @@ and explorable via [Binder](https://mybinder.org/) or locally runnable.
 
 The current explorations are:
 
-* **Hiring** ([github](./hiring.ipynb), [binder](https://mybinder.org/v2/gh/lethain/systems-explorations/master))
-* **Reliability** ([github](./reliability.ipynb), [binder](https://mybinder.org/v2/gh/lethain/systems-explorations/master))
+* **Hiring** ([github](./hiring.ipynb)) - model of a hiring funnel
+* **Reliability** ([github](./reliability.ipynb)) - model of reliability
 
 ## Installation
 
@@ -22,6 +22,9 @@ Installation instructions are:
     python3 -m venv ./env
     source ./env/bin/activate
     pip install -r requirements.txt
+
+Using the graphviz extensions will require also install `dot` for your
+operating system.
 
 Then you run Jupyter via:
 
